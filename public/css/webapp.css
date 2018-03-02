@@ -28,6 +28,7 @@ h1 {
 h2 {
   font-size: 20px;
   color: #1abc9c;
+  width: 33%;
 }
 main {
   margin: 0 auto 0 auto;
@@ -56,4 +57,5 @@ footer {
 }
 .wrapper {
   width: 33%;
+  display: block;
 }

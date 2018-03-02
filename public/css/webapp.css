@@ -48,9 +48,11 @@ footer {
   font-size: 14px;
   font-weight: bold;
 }
-.wrapper {
+#collection {
   display: flex;
   flex-wrap: wrap;
   float: left;
+}
+.wrapper {
   width: 33%;
 }
